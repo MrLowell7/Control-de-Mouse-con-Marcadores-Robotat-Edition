@@ -4,7 +4,7 @@ Este repositorio contiene dos utilidades desarrolladas para controlar el cursor 
 1) Una versión **manual** para pruebas rápidas. 
 2) Una versión **automática** utilizada en el proyecto final para validar la sincronización entre un marcador físico (capturado por OptiTrack) y la proyección visual.
 
-Ambas herramientas fueron utilizadas durante el desarrollo del sistema de interacción física sobre la mesa del laboratorio Robotat.
+Ambas herramientas fueron utilizadas durante el desarrollo del sistema de interacción física sobre la mesa del laboratorio Robotat de la Universidad del Valle de Guatemala.
 
 ---
 
