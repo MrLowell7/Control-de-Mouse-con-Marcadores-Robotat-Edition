@@ -1,4 +1,4 @@
-# Mouse-Control (Control de Cursor Manual y con Marcadores)
+# Control de Cursor Manual y con Marcadores - Robotat Edition
 
 Este repositorio contiene dos utilidades desarrolladas para controlar el cursor del sistema:  
 1) una versión **manual** para pruebas rápidas, y  
