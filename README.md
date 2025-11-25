@@ -1,8 +1,8 @@
 # Control de Cursor Manual y con Marcadores - Robotat Edition
 
 Este repositorio contiene dos utilidades desarrolladas para controlar el cursor del sistema:  
-1) una versión **manual** para pruebas rápidas, y  
-2) una versión **automática** utilizada en el proyecto final para validar la sincronización entre un marcador físico (capturado por OptiTrack) y la proyección visual.
+1) Una versión **manual** para pruebas rápidas. 
+2) Una versión **automática** utilizada en el proyecto final para validar la sincronización entre un marcador físico (capturado por OptiTrack) y la proyección visual.
 
 Ambas herramientas fueron utilizadas durante el desarrollo del sistema de interacción física sobre la mesa del laboratorio Robotat.
 
