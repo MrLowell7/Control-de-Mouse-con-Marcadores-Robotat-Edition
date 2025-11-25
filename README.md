@@ -36,7 +36,7 @@ python MouseControl_Manual.py
 
 ### **2. MouseControl_Auto.py** (Versión Final)
 Versión completa utilizada en el proyecto para validar la **sincronización entre el marcador físico y la proyección**.  
-Es la versión descrita en el trabajo escrito y en el Manual Cliente/Servidor.
+Es la versión descrita en el trabajo escrito y en el Manual Cliente/Servidor del trabajo de graduación de Daniel Cortez de la Universidad del Valle de Guatemala.
 
 - Lee datos de posición provenientes del sistema OptiTrack vía MQTT.
 - Convierte esas coordenadas en movimientos reales del cursor.
