@@ -61,16 +61,16 @@ from ctypes import wintypes
 
 Para que la aplicación reciba los datos correctos y pueda mover el cursor según la posición del marcador, se requiere:
 
-### ✔ 1. El sistema OptiTrack / NatNet → MQTT debe estar corriendo  
+### 1. El sistema OptiTrack / NatNet → MQTT debe estar corriendo  
 El servidor del laboratorio debe estar transmitiendo la información del marcador por MQTT.
 
-### ✔ 2. El cliente debe estar conectado a la red del Robotat  
+### 2. El cliente debe estar conectado a la red del Robotat  
 La computadora que ejecuta el script debe estar en la misma red donde se publica el tópico MQTT.
 
-### ✔ 3. Configurar el tópico MQTT correcto dentro del script  
+### 3. Configurar el tópico MQTT correcto dentro del script  
 En el código, ajustar la línea:
 ```python
-MQTT_TOPIC = "robotat/tu_topic"
+TOPIC = "mocap/all"
 ```
 
 ---
